@@ -43,13 +43,13 @@ https://golang.org
 
 Ідея перекладу: [[https://www.linkedin.com/in/rostyslav-pylypiv/][Ростислав Пилипів]]
 Переклад:
-concurrency - [[https://github.com/Evgenus/][Eugene Chernyshov]]
-moretypes - [[https://www.linkedin.com/in/rostyslav-pylypiv/][Rostyslav Pylypiv]]
-basics - [[https://www.linkedin.com/in/illia-dimura/][Illia Dimura]]
-flowcontrol - [[https://www.linkedin.com/in/vpakhuchyi/][Viktor Pakhuchyi]]
-generics - [[https://github.com/Metalscreame][Roman Kosyi]]
-methods - [[https://github.com/arsenalzp][Oleksandr Krutko]]
-welcome - [[https://www.linkedin.com/in/illia-dimura/][Illia Dimura]]
+- concurrency - [[https://github.com/Evgenus/][Eugene Chernyshov]]
+- moretypes - [[https://www.linkedin.com/in/rostyslav-pylypiv/][Rostyslav Pylypiv]]
+- basics - [[https://www.linkedin.com/in/illia-dimura/][Illia Dimura]]
+- flowcontrol - [[https://www.linkedin.com/in/vpakhuchyi/][Viktor Pakhuchyi]]
+- generics - [[https://github.com/Metalscreame][Roman Kosyi]]
+- methods - [[https://github.com/arsenalzp][Oleksandr Krutko]]
+- welcome - [[https://www.linkedin.com/in/illia-dimura/][Illia Dimura]]
 
 
 .play welcome/hello.go
