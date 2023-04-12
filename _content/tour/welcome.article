@@ -4,6 +4,7 @@
 Автори Golang
 https://golang.org
 
+<<<<<<< HEAD
 * Привіт, World
 
 Ласкаво просимо на тур з [[/][мови програмування Go]].
@@ -44,13 +45,59 @@ https://golang.org
 Ідея перекладу: [[https://www.linkedin.com/in/rostyslav-pylypiv/][Ростислав Пилипів]]
 Переклад:
 - concurrency - [[https://github.com/Evgenus/][Eugene Chernyshov]]
+
 - moretypes - [[https://www.linkedin.com/in/rostyslav-pylypiv/][Rostyslav Pylypiv]]
+
 - basics - [[https://www.linkedin.com/in/illia-dimura/][Illia Dimura]]
+
 - flowcontrol - [[https://www.linkedin.com/in/vpakhuchyi/][Viktor Pakhuchyi]]
+
 - generics - [[https://github.com/Metalscreame][Roman Kosyi]]
+
 - methods - [[https://github.com/arsenalzp][Oleksandr Krutko]]
+
 - welcome - [[https://www.linkedin.com/in/illia-dimura/][Illia Dimura]]
 
+
+=======
+
+* Привіт, World
+
+Ласкаво просимо на тур з [[/][мови програмування Go]].
+
+Тур розділений на модулі, до яких ви можете
+перейти, натиснувши
+[[javascript:highlight(".logo")][A Tour of Go]] у лівому кутку сторінки.
+
+Ви також можете переглянути зміст у будь-який час, натиснувши на кнопку [[javascript:highlightAndClick(".nav")][Menu]] у верхньому правому куту сторінки.
+
+Впродовж туру на вас чекає низка слайдів та вправ, які ви маєте виконати.
+
+Орієнтуватися в них можна за допомогою
+
+- [[javascript:highlight(".prev-page")]["previous"]] або `PageUp`, щоб повернутись на минулий слайд,
+
+- [[javascript:highlight(".next-page")]["next"]] або `PageDown`, щоб перейти на наступний слайд.
+
+
+Тур - інтерактивний. Натисніть на
+кнопку [[javascript:highlightAndClick("#run")][Run]]
+(або натисніть `Shift` + `Enter`) скомпілювати і запустити програму на
+#appengine: віддаленому сервері.
+вашому комп'ютері.
+Результат відображається під кодом.
+
+Ці приклади програм демонструють різні аспекти Go. Програми в турі призначені для того, щоб стати відправною точкою для ваших власних експериментів.
+
+Відредагуйте програму та запустіть її ще раз.
+
+Коли ви натискаєте на [[javascript:highlightAndClick("#format")][Format]]
+(швидкий доступ: `Ctrl` + `Enter`), текст в редакторі форматується за допомогою
+інструменту [[/cmd/gofmt/][gofmt]]. Ви можете вмикати та вимикати підсвічування синтаксису,
+натиснувши на кнопку [[javascript:highlightAndClick(".syntax-checkbox")][syntax]].
+
+Коли будете готові рушати далі, натисніть на кнопку [[javascript:highlightAndClick(".next-page")][right arrow]] нижче або натисніть кнопку `PageDown`.
+>>>>>>> c00883de89fe4ae0840173dc8f913ce8f199dc81
 
 .play welcome/hello.go
 
@@ -77,6 +124,10 @@ https://golang.org
 #appengine: вашому комп'ютері.
 #appengine:
 #appengine: Щоб запустити тур локально, вам потрібно спочатку
+<<<<<<< HEAD
+=======
+
+>>>>>>> c00883de89fe4ae0840173dc8f913ce8f199dc81
 #appengine: [[/doc/install][встановити Go]] а потім виконати:
 #appengine:
 #appengine:   go install golang.org/x/website/tour@latest
